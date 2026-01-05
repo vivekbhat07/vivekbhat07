@@ -27,6 +27,6 @@ I enjoy building scalable web applications and experimenting with AI/ML projects
 ---
 
 ### 📫 Connect with me
-- LinkedIn: [https://www.linkedin.com/(https://www.linkedin.com/in/vivek-bhat-141ab1294/)
+- LinkedIn: (https://www.linkedin.com/in/vivek-bhat-141ab1294/)
 - blog: (https://vivekbhat07.github.io/profile/)
 
