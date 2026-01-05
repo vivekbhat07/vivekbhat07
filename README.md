@@ -19,7 +19,7 @@ I enjoy building scalable web applications and experimenting with AI/ML projects
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
 
 #### 🗄️ Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 
 #### 🛠️ Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
@@ -27,5 +27,6 @@ I enjoy building scalable web applications and experimenting with AI/ML projects
 ---
 
 ### 📫 Connect with me
-- LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/vivek-bhat-141ab1294/)
+- LinkedIn: [https://www.linkedin.com/(https://www.linkedin.com/in/vivek-bhat-141ab1294/)
+- blog: (https://vivekbhat07.github.io/profile/)
 
